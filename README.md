@@ -1,1 +1,1 @@
-# practica1
+Este archivo trata sobre la practica quer no puso el profe cuadros, la hora local es 2:45 p.m.
